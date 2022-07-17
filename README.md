@@ -1,6 +1,13 @@
 # Youtube-Revanced
 A Repository dedicated for those who don't know how to compile the latest version of Revanced into APK.
 
+Dedicated Website :
+[ReVanced.web.app](https://revanced.web.app)
+
+Dedicated ReVanced Manager :
+Coming Soon.
+
+
 # Download
 To Download the latest release:
 1. Head over to :
