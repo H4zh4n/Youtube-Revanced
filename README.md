@@ -4,8 +4,8 @@ A Repository dedicated for those who don't know how to compile the latest versio
 Dedicated Website :
 [ReVanced.web.app](https://revanced.web.app)
 
-Dedicated ReVanced Manager :
-Coming Soon.
+Dedicated ReVanced Manager [unofficial] :
+[Download](https://github.com/H4zh4n/Youtube-Revanced/raw/main/revanced_manager.apk)
 
 
 # Download
