@@ -1,0 +1,17 @@
+{
+	"version_code":"2",
+	"version_name":"1.0.2",
+	"version_info":[
+		"<span style=\"color: #d35400\"> <strong>Version 1.0.1 (06/Aug/2022) : </strong> </span>",
+		"<br>",
+		"• Updated Youtube Base version to 17.29.35.",
+    "<br>",
+		"• Support direct download.",
+    "<br>",
+		"• Manage patch toggles in settings.",
+    "<br>",
+		"<br><br>"
+	],
+	"direct_version_url":"https://github.com/H4zh4n/Youtube-Revanced/releases/download/ytr_1.0.1/revanced_v1.0.2.apk",
+  "version_url":"https://github.com/H4zh4n/Youtube-Revanced"
+}
