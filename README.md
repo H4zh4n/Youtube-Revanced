@@ -1,3 +1,14 @@
+
+# ![Orange](https://i.imgur.com/QMmap0Y.png) Discontinued due to laziness
+There are plenty of amazing and easy to use tools already built to compile ReVanced, such as
+
+[reisxd/revanced-builder](https://github.com/reisxd/revanced-builder)
+
+Please use those.
+much love <3
+
+______
+
 # Youtube-Revanced
 A Repository dedicated for those who don't know how to compile the latest version of Revanced into APK.
 
