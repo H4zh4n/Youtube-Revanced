@@ -1,23 +1,5 @@
-v1.0.0 1
-https://revanced.web.app/
+v0 999
+https://github.com/revanced/revanced-manager/releases
 19/Jul/2022
-#27ae60|1658250089160|First release of ReVanced.
-Patches Applied :
-
-• Show the dislike count of videos using the Return YouTube Dislike API.
-• Enable SponsorBlock.
-• Removes ads in the video player.
-• Removes general ads.
-• Enables tap-to-seek on the seek bar of the video player.
-• Adds volume and brightness swipe controls.
-• Allows YouTube ReVanced to run without root and under a different package name with Vanced MicroG.
-• Enable the original quality flyout menu.
-• Hide the cast button in the video player.
-• Enable pure black theme.
-• Hide the AutoPlay button in the video player.
-• Enable minimized and background playback.
-• Replace the search icon with a wide search bar. This will hide the YouTube logo when active.
-• Disable video description and comments panel in fullscreen view.
-• Hide the shorts button on the navigation bar.
-• Hide the create button in the navigation bar.
-• Hide creator's watermarks on videos.
+#e67e22|1665303622700|Please use original ReVanced team tool to repack.
+And that's a wrap.
