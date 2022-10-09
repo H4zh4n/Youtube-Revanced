@@ -1,7 +1,11 @@
 
-# ![Orange](https://i.imgur.com/QMmap0Y.png) Discontinued due to laziness
-There are plenty of amazing and easy to use tools already built to compile ReVanced, such as
+# ![Orange](https://i.imgur.com/QMmap0Y.png) Discontinued
+The project is discontinued (mostly due to laziness). There are plenty of amazing and easy to use tools already built to compile ReVanced, such as :
 
+Main team ReVanced Manager :
+[revanced/revanced-manager](https://github.com/revanced/revanced-manager)
+
+Secondary options : 
 [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder)
 
 Please use those.
